@@ -15,7 +15,7 @@ export default function Home() {
     {
       title: 'Coucou sous-titre',
       content:
-        'bohemiannnnnnnnnnnnnnnnnnnnnnnnn123123',
+        'bohemiannnnnnnnnnnnnnnnnnnnnnnnn123123testetstest',
     },
   ]);
   return (
